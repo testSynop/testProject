@@ -1,0 +1,9 @@
+name: ' Action'
+branding:
+  icon: 'shield'
+  color: 'purple'
+description: 'Find and fix software weaknesses and vulnerabilities during development, before you ship or deploy!'
+author: ' Inc'
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
